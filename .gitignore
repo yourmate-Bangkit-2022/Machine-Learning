@@ -1,0 +1,3 @@
+# Ade Prianto's local environtment
+# All files and directories that should be ignored and not pushed to github
+/venv
