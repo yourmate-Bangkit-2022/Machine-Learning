@@ -2,3 +2,4 @@
 # All files and directories that should be ignored and not pushed to github
 /venv
 /data-raw
+/pretrained-model
